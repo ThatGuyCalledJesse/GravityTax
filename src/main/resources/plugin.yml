@@ -1,0 +1,6 @@
+name: GravityTax
+author: ThatGuyCalledJesse
+version: '${project.version}'
+main: com.jesse.gravitytax.GravityTax
+api-version: '1.20'
+description: Every step removes a random item from your inventory. The less items you have in your inventory, the less gravity there is.
